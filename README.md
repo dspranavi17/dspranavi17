@@ -1,2 +1,6 @@
-![tenor](https://user-images.githubusercontent.com/68382832/119224759-a153c700-bb1d-11eb-8473-771ed27b01f7.gif)
+Hello, I'm Sri Pranavi Donapati, a recent graduate with a Master's in Data Science. 
+My passion lies at the intersection of data science and engineering.
+
+
+
 
